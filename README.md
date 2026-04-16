@@ -30,7 +30,7 @@ Currently building **[BloomSpace](https://github.com/HosnyYousef/bloom-workload-
 
 `MongoDB` `Express` `React` `Node.js` `TypeScript` `Recharts` `JWT Auth`
 
-[View Repo](https://github.com/HosnyYousef/bloomspace) · [Live Demo](https://your-demo-link.com)
+[View Repo](https://github.com/HosnyYousef/bloom-workload-engine) <!-- · [Live Demo](https://your-demo-link.com) -->
 
 ---
 
