@@ -4,7 +4,118 @@ Full-stack developer with a background in operations, publishing, and client-fac
 
 I care about products that work well for real people, systems that scale without breaking, and communicating clearly across technical and non-technical teams.
 
-Currently building **[BloomSpace](https://github.com/HosnyYousef/bloom-workload-engine)** — a MERN stack productivity app designed for users with executive function challenges. Also working at a climate tech startup where I blend development with client communication.
+---
+
+## 🌱 Featured Project
+
+### BloomSpace
+> A MERN stack productivity app designed for users with executive function challenges. Features SMART goal tracking, energy-based task filtering, and an adaptive dashboard built with Recharts.
+
+`MongoDB` `Express` `React` `Node.js` `TypeScript` `Recharts` `JWT Auth`
+
+<!-- Replace the line below with your BloomSpace GIF (1280x720px, under 10MB) -->
+![BloomSpace Demo](./gifs/bloomspace.gif)
+
+[View Repo](https://github.com/HosnyYousef/bloomspace) · [Live Demo](https://your-demo-link.com)
+
+---
+
+## 🔌 API Projects
+
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <b>NASA API</b><br><br>
+      <!-- Replace with your NASA API GIF (600x400px) -->
+      <img src="./gifs/nasaapi.gif" width="100%" alt="NASA API"/><br><br>
+      Explore NASA's image and data archive. Pulls from NASA's open API to display astronomy photos, rover data, and space events.<br><br>
+      <code>JavaScript</code> <code>REST API</code> <code>HTML/CSS</code><br><br>
+      <a href="https://github.com/HosnyYousef/NASAapi">View Repo</a> · <a href="#">Live Demo</a>
+    </td>
+    <td align="center" width="50%">
+      <b>Pokémon API</b><br><br>
+      <!-- Replace with your Pokemon API GIF (600x400px) -->
+      <img src="./gifs/pokemonapi.gif" width="100%" alt="Pokemon API"/><br><br>
+      Search and explore Pokémon data using the PokéAPI. Displays stats, types, and sprites dynamically.<br><br>
+      <code>JavaScript</code> <code>REST API</code> <code>HTML/CSS</code><br><br>
+      <a href="https://github.com/HosnyYousef/pokemonAPI">View Repo</a> · <a href="#">Live Demo</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <b>Dune API</b><br><br>
+      <!-- Replace with your Dune API GIF (600x400px) -->
+      <img src="./gifs/duneapi.gif" width="100%" alt="Dune API"/><br><br>
+      Browse characters, houses, and lore from the Dune universe via API integration.<br><br>
+      <code>JavaScript</code> <code>REST API</code> <code>HTML/CSS</code><br><br>
+      <a href="https://github.com/HosnyYousef/duneAPI">View Repo</a> · <a href="#">Live Demo</a>
+    </td>
+    <td align="center" width="50%">
+      <b>Zelda Tools API</b><br><br>
+      <!-- Replace with your Zelda API GIF (600x400px) -->
+      <img src="./gifs/zeldaapi.gif" width="100%" alt="Zelda API"/><br><br>
+      Look up items, monsters, and game data from across the Legend of Zelda series.<br><br>
+      <code>JavaScript</code> <code>REST API</code> <code>HTML/CSS</code><br><br>
+      <a href="https://github.com/HosnyYousef/APIZeldaTools">View Repo</a> · <a href="#">Live Demo</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <b>AI News API</b><br><br>
+      <!-- Replace with your AI News GIF (600x400px) -->
+      <img src="./gifs/ainews.gif" width="100%" alt="AI News"/><br><br>
+      Aggregates and displays live news articles via a news API with category filtering.<br><br>
+      <code>JavaScript</code> <code>REST API</code> <code>HTML/CSS</code><br><br>
+      <a href="https://github.com/HosnyYousef/api-ai-news">View Repo</a> · <a href="#">Live Demo</a>
+    </td>
+    <td align="center" width="50%">
+      <b>Liquid Drink API</b><br><br>
+      <!-- Replace with your Liquid Drink GIF (600x400px) -->
+      <img src="./gifs/liquiddrink.gif" width="100%" alt="Liquid Drink API"/><br><br>
+      Choose a drink and get the full recipe and ingredients pulled from an external cocktail API.<br><br>
+      <code>JavaScript</code> <code>REST API</code> <code>HTML/CSS</code><br><br>
+      <a href="https://github.com/HosnyYousef/liquidDrinkAPI">View Repo</a> · <a href="#">Live Demo</a>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🎮 Creative / Fun Projects
+
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <b>Mortal Kombat Character Picker</b><br><br>
+      <!-- Replace with your MK GIF (600x400px) -->
+      <img src="./gifs/mortalkombat.gif" width="100%" alt="Mortal Kombat"/><br><br>
+      Click a character to select them — just like the original game. Plays character intro videos with the MK soundtrack in the background.<br><br>
+      <code>JavaScript</code> <code>HTML/CSS</code> <code>Video API</code><br><br>
+      <a href="https://github.com/HosnyYousef/mortalKombat">View Repo</a> · <a href="#">Live Demo</a>
+    </td>
+    <td align="center" width="50%">
+      <b>DBZ Ambient Music</b><br><br>
+      <!-- Replace with your DBZ GIF (600x400px) -->
+      <img src="./gifs/dbz.gif" width="100%" alt="DBZ Ambient Music"/><br><br>
+      Dragon Ball Z characters cycle every 10 seconds with ambient study music and Google Translate support for 100+ languages.<br><br>
+      <code>JavaScript</code> <code>Google Translate API</code> <code>HTML/CSS</code><br><br>
+      <a href="https://github.com/HosnyYousef/dbzMusic">View Repo</a> · <a href="#">Live Demo</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <b>Matt René — Filmmaker Portfolio</b><br><br>
+      <!-- Replace with your Matt Rene GIF (600x400px) -->
+      <img src="./gifs/mattrene.gif" width="100%" alt="Matt Rene Portfolio"/><br><br>
+      Client portfolio site built for a filmmaker. Clean layout showcasing projects, bio, and contact.<br><br>
+      <code>HTML</code> <code>CSS</code> <code>JavaScript</code><br><br>
+      <a href="https://github.com/HosnyYousef/mattRenePortfolio">View Repo</a> · <a href="#">Live Demo</a>
+    </td>
+    <td align="center" width="50%">
+      <!-- Placeholder for a future project -->
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -16,27 +127,15 @@ Currently building **[BloomSpace](https://github.com/HosnyYousef/bloom-workload-
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-005571?style=flat)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white)
 
 ---
 
-## 🚀 Projects
-
-### BloomSpace
-> MERN stack productivity app for users with executive function challenges. Features SMART goal tracking, energy-based task filtering, and an adaptive dashboard.
-
-`MongoDB` `Express` `React` `Node.js` `TypeScript` `Recharts` `JWT Auth`
-
-[View Repo](https://github.com/HosnyYousef/bloom-workload-engine) <!-- · [Live Demo](https://your-demo-link.com) -->
-
----
-
 ## 📫 Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yousefhosny/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://yousefhosny.com)
 [![Twitter/X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/yousefhosny)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/the_proteinsheikh)
