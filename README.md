@@ -16,7 +16,7 @@ I care about products that work well for real people, systems that scale without
 <!-- Replace the line below with your BloomSpace GIF (1280x720px, under 10MB) -->
 ![BloomSpace Demo](./gifs/bloomspace.gif)
 
-[View Repo](https://github.com/HosnyYousef/bloomspace) · [Live Demo](https://your-demo-link.com)
+[View Repo](https://github.com/HosnyYousef/bloomspace) · [Live Demo](https://bloomspaceproject.netlify.app/)
 
 ---
 
@@ -30,7 +30,7 @@ I care about products that work well for real people, systems that scale without
       <img src="./gifs/nasaapi.gif" width="100%" alt="NASA API"/><br><br>
       Explore NASA's image and data archive. Pulls from NASA's open API to display astronomy photos, rover data, and space events.<br><br>
       <code>JavaScript</code> <code>REST API</code> <code>HTML/CSS</code><br><br>
-      <a href="https://github.com/HosnyYousef/NASAapi">View Repo</a> · <a href="#">Live Demo</a>
+      <a href="https://github.com/HosnyYousef/NASAapi">View Repo</a> · <a href="https://hosnynasaapi.netlify.app/">Live Demo</a>
     </td>
     <td align="center" width="50%">
       <b>Pokémon API</b><br><br>
@@ -38,7 +38,7 @@ I care about products that work well for real people, systems that scale without
       <img src="./gifs/pokemonapi.gif" width="100%" alt="Pokemon API"/><br><br>
       Search and explore Pokémon data using the PokéAPI. Displays stats, types, and sprites dynamically.<br><br>
       <code>JavaScript</code> <code>REST API</code> <code>HTML/CSS</code><br><br>
-      <a href="https://github.com/HosnyYousef/pokemonAPI">View Repo</a> · <a href="#">Live Demo</a>
+      <a href="https://github.com/HosnyYousef/pokemonAPI">View Repo</a> · <a href="https://pokemonworldapi.netlify.app/">Live Demo</a>
     </td>
   </tr>
   <tr>
@@ -48,7 +48,7 @@ I care about products that work well for real people, systems that scale without
       <img src="./gifs/duneapi.gif" width="100%" alt="Dune API"/><br><br>
       Browse characters, houses, and lore from the Dune universe via API integration.<br><br>
       <code>JavaScript</code> <code>REST API</code> <code>HTML/CSS</code><br><br>
-      <a href="https://github.com/HosnyYousef/duneAPI">View Repo</a> · <a href="#">Live Demo</a>
+      <a href="https://github.com/HosnyYousef/duneAPI">View Repo</a> · <a href="https://duneapi.netlify.app/">Live Demo</a>
     </td>
     <td align="center" width="50%">
       <b>Zelda Tools API</b><br><br>
@@ -56,7 +56,7 @@ I care about products that work well for real people, systems that scale without
       <img src="./gifs/zeldaapi.gif" width="100%" alt="Zelda API"/><br><br>
       Look up items, monsters, and game data from across the Legend of Zelda series.<br><br>
       <code>JavaScript</code> <code>REST API</code> <code>HTML/CSS</code><br><br>
-      <a href="https://github.com/HosnyYousef/APIZeldaTools">View Repo</a> · <a href="#">Live Demo</a>
+      <a href="https://github.com/HosnyYousef/APIZeldaTools">View Repo</a> · <a href="https://zeldaworldapi.netlify.app/">Live Demo</a>
     </td>
   </tr>
   <tr>
@@ -66,7 +66,7 @@ I care about products that work well for real people, systems that scale without
       <img src="./gifs/ainews.gif" width="100%" alt="AI News"/><br><br>
       Aggregates and displays live news articles via a news API with category filtering.<br><br>
       <code>JavaScript</code> <code>REST API</code> <code>HTML/CSS</code><br><br>
-      <a href="https://github.com/HosnyYousef/api-ai-news">View Repo</a> · <a href="#">Live Demo</a>
+      <a href="https://github.com/HosnyYousef/api-ai-news">View Repo</a> · <a href="https://newsworldapi.netlify.app/">Live Demo</a>
     </td>
     <td align="center" width="50%">
       <b>Liquid Drink API</b><br><br>
@@ -74,7 +74,7 @@ I care about products that work well for real people, systems that scale without
       <img src="./gifs/liquiddrink.gif" width="100%" alt="Liquid Drink API"/><br><br>
       Choose a drink and get the full recipe and ingredients pulled from an external cocktail API.<br><br>
       <code>JavaScript</code> <code>REST API</code> <code>HTML/CSS</code><br><br>
-      <a href="https://github.com/HosnyYousef/liquidDrinkAPI">View Repo</a> · <a href="#">Live Demo</a>
+      <a href="https://github.com/HosnyYousef/liquidDrinkAPI">View Repo</a> · <a href="https://app.netlify.com/projects/drinkscarouselapi/">Live Demo</a>
     </td>
   </tr>
 </table>
@@ -91,7 +91,7 @@ I care about products that work well for real people, systems that scale without
       <img src="./gifs/mortalkombat.gif" width="100%" alt="Mortal Kombat"/><br><br>
       Click a character to select them — just like the original game. Plays character intro videos with the MK soundtrack in the background.<br><br>
       <code>JavaScript</code> <code>HTML/CSS</code> <code>Video API</code><br><br>
-      <a href="https://github.com/HosnyYousef/mortalKombat">View Repo</a> · <a href="#">Live Demo</a>
+      <a href="https://github.com/HosnyYousef/backgroundPickerOwn">View Repo</a> · <a href="https://mortalkombatcharacters.netlify.app/">Live Demo</a>
     </td>
     <td align="center" width="50%">
       <b>DBZ Ambient Music</b><br><br>
@@ -99,7 +99,7 @@ I care about products that work well for real people, systems that scale without
       <img src="./gifs/dbz.gif" width="100%" alt="DBZ Ambient Music"/><br><br>
       Dragon Ball Z characters cycle every 10 seconds with ambient study music and Google Translate support for 100+ languages.<br><br>
       <code>JavaScript</code> <code>Google Translate API</code> <code>HTML/CSS</code><br><br>
-      <a href="https://github.com/HosnyYousef/dbzMusic">View Repo</a> · <a href="#">Live Demo</a>
+      <a href="https://github.com/HosnyYousef/DBZ">View Repo</a> · <a href="https://dbzfocusmusic.netlify.app/">Live Demo</a>
     </td>
   </tr>
   <tr>
@@ -109,7 +109,7 @@ I care about products that work well for real people, systems that scale without
       <img src="./gifs/mattrene.gif" width="100%" alt="Matt Rene Portfolio"/><br><br>
       Client portfolio site built for a filmmaker. Clean layout showcasing projects, bio, and contact.<br><br>
       <code>HTML</code> <code>CSS</code> <code>JavaScript</code><br><br>
-      <a href="https://github.com/HosnyYousef/mattRenePortfolio">View Repo</a> · <a href="#">Live Demo</a>
+      <a href="https://github.com/HosnyYousef/mattRenePortfolio">View Repo</a> · <a href="https://mattrene.netlify.app/">Live Demo</a>
     </td>
     <td align="center" width="50%">
       <!-- Placeholder for a future project -->
