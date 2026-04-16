@@ -4,7 +4,7 @@ Full-stack developer with a background in operations, publishing, and client-fac
 
 I care about products that work well for real people, systems that scale without breaking, and communicating clearly across technical and non-technical teams.
 
-Currently building **[BloomSpace](https://github.com/HosnyYousef/bloomspace)** — a MERN stack productivity app designed for users with executive function challenges. Also working at a climate tech startup where I blend development with client communication.
+Currently building **[BloomSpace](https://github.com/HosnyYousef/bloom-workload-engine)** — a MERN stack productivity app designed for users with executive function challenges. Also working at a climate tech startup where I blend development with client communication.
 
 ---
 
