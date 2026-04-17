@@ -1,6 +1,6 @@
 # Hi, I'm Yousef 👋
 
-Full-stack developer with a background in operations, publishing, and client-facing roles — now building software that actually solves problems.
+Full-stack developer with a background in operations, publishing, and client-facing roles. Now building software that actually solves problems.
 
 I care about products that work well for real people, systems that scale without breaking, and communicating clearly across technical and non-technical teams.
 
@@ -82,7 +82,7 @@ I care about products that work well for real people, systems that scale without
     <td align="center" width="50%">
       <b>Mortal Kombat Character Picker</b><br><br>
       <img src="./mortalkombatgithubgif.gif" width="100%" alt="Mortal Kombat"/><br><br>
-      Click a character to select them — just like the original game. Plays character intro videos with the MK soundtrack in the background.<br><br>
+      Click a character to select them. just like the original game. Plays character intro videos with the MK soundtrack in the background.<br><br>
       <code>JavaScript</code> <code>HTML/CSS</code> <code>Video API</code><br><br>
       <a href="https://github.com/HosnyYousef/backgroundPickerOwn">View Repo</a> · <a href="https://mortalkombatcharacters.netlify.app/">Live Demo</a>
     </td>
@@ -96,7 +96,7 @@ I care about products that work well for real people, systems that scale without
   </tr>
   <tr>
     <td align="center" width="50%">
-      <b>Matt René — Filmmaker Portfolio</b><br><br>
+      <b>Matt René. Filmmaker Portfolio</b><br><br>
       <img src="./renegithubgif.gif" width="100%" alt="Matt Rene Portfolio"/><br><br>
       Client portfolio site built for a filmmaker. Clean layout showcasing projects, bio, and contact.<br><br>
       <code>HTML</code> <code>CSS</code> <code>JavaScript</code><br><br>
