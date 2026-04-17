@@ -41,11 +41,11 @@ I care about products that work well for real people, systems that scale without
   </tr>
   <tr>
     <td align="center" width="50%">
-      <b>Dune API</b><br><br>
-      <img src="./duneapi.gif" width="100%" alt="Dune API"/><br><br>
+      <b>Quran Unity API</b><br><br>
+      <img src="./quranapi.gif" width="100%" alt="Quran API"/><br><br>
       Browse characters, houses, and lore from the Dune universe via API integration.<br><br>
       <code>JavaScript</code> <code>REST API</code> <code>HTML/CSS</code><br><br>
-      <a href="https://github.com/HosnyYousef/duneAPI">View Repo</a> · <a href="https://duneapi.netlify.app/">Live Demo</a>
+      <a href="https://github.com/HosnyYousef/QuranAyaADay">View Repo</a> · <a href="https://unityquran.netlify.app/">Live Demo</a>
     </td>
     <td align="center" width="50%">
       <b>Zelda Tools API</b><br><br>
