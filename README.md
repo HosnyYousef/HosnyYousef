@@ -14,7 +14,7 @@ I care about products that work well for real people, systems that scale without
 `MongoDB` `Express` `React` `Node.js` `TypeScript` `Recharts` `JWT Auth`
 
 <!-- Replace the line below with your BloomSpace GIF (1280x720px, under 10MB) -->
-![BloomSpace Demo](./bloomspace.gif)
+![BloomSpace Demo](./bloomspacegif.gif)
 
 [View Repo](https://github.com/HosnyYousef/bloomspace) · [Live Demo](https://bloomspaceproject.netlify.app/)
 
