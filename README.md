@@ -20,7 +20,7 @@ A MERN productivity app designed for users with executive function challenges. B
 
 ![BloomSpace Demo](./bloomspacegif.gif)
 
-<a href="https://github.com/HosnyYousef/bloom-workload-engine">View Repo</a> · <a href="https://bloomspaceproject.netlify.app/" target="_blank" rel="noopener noreferrer">Live Demo</a>
+<a href="https://github.com/HosnyYousef/bloom-workload-engine">View Repo</a> · <a href="https://bloomspaceproject.netlify.app/" target="_blank" rel="noopener noreferrer">Live Demo</a> · <a href="https://youtu.be/dclTydUAHVs" target="_blank" rel="noopener noreferrer">Watch Demo Video</a>
 
 ---
 
