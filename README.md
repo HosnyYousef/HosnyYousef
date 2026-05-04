@@ -45,9 +45,9 @@ A MERN productivity app designed for users with executive function challenges. B
   </tr>
   <tr>
     <td align="center" width="50%">
-      <h3>Quran Unity</h3>
-      <img src="./quranapi.gif" width="100%" alt="Quran Unity demo"/><br><br>
-      Presents Quran verses through a clean daily-reading interface, focused on accessible content retrieval and simple navigation.<br><br>
+      <h3>Script Search for Unity</h3>
+      <img src="./quranapi.gif" width="100%" alt="Scripture Unity demo"/><br><br>
+      Presents Scripture verses through a clean daily-reading interface, focused on accessible content retrieval and simple navigation.<br><br>
       <code>JavaScript</code> <code>REST API</code> <code>HTML</code> <code>CSS</code><br><br>
       <a href="https://github.com/HosnyYousef/QuranAyaADay">View Repo</a> · <a href="https://unityquran.netlify.app/" target="_blank" rel="noopener noreferrer">Live Demo</a>
     </td>
